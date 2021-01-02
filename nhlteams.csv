@@ -1,0 +1,32 @@
+OBJECTID,FullName,Team,City,Start_X,Start_Y,CityMtached
+1,Pittsburgh Penguins,Penguins,Pittsburgh,-79.99021149,40.44185257,Pittsburgh
+2,Philadelphia Flyers,Flyers,Philadelphia,-75.17188263,39.90114212,Philadelphia
+3,New York Rangers,Rangers,New York Rangers,-73.99365234,40.75052261,Ny Rangers
+4,New York Islanders,Islanders,New York Islanders,-73.59054565,40.72283554,Ny Islanders
+5,New Jersey Devils,Devils,New Jersey,-74.06826019,40.81111145,New Jersey
+6,St. Louis Blues,Blues,St. Louis,-90.20269012,38.62684631,St. Louis
+7,Nashville Predators,Predators,Nashville,-86.7775116,36.16027069,Nashville
+8,Detroit RedWings,RedWings,Detroit,-83.05144501,42.32522202,Detroit
+9,Columbus BlueJackets,BlueJackets,Columbus,-83.00619507,39.96931076,Columbus
+10,Chicago Blackhawks,Blackhawks,Chicago,-87.67421722,41.88064957,Chicago
+11,Toronto Maple Leafs,Leafs,Toronto,-79.37915802,43.64340591,Toronto
+12,Ottawa Senators,Senators,Ottawa,-75.92731476,45.29692841,Ottawa
+13,Montreal Canadians,Canadians,Montreal,-73.56945038,45.49608231,Montreal
+14,Buffalo Sabres,Sabres,Buffalo,-78.87657928,42.87509918,Buffalo
+15,Boston Bruins,Bruins,Boston,-71.06242371,42.36575699,Boston
+16,Vancouver Canucks,Canucks,Vancouver,-123.1088409,49.27782822,Vancouver
+17,Minnesota Wild,Wild,Minnesota,-93.10138702,44.94484329,Minnesota
+18,Edmonton Oilers,Oilers,Edmonton,-113.4560242,53.57131958,Edmonton
+19,Colorado Avalanche,Avalanche,Colorado,-105.0076675,39.74870682,Colorado
+20,Calgary Flames,Flames,Calgary,-114.0521011,51.0374794,Calgary
+21,Winnipeg Jets,Jets,Winnipeg,-97.14370727,49.89286423,Winnipeg
+22,Washington Capitals,Capitals,Washington,-77.02114105,38.89807892,Washington
+23,Tampa Bay Lightning,Lightning,Tampa Bay,-82.45178986,27.94270134,Tampa Bay
+24,Florida Panthers,Panthers,Florida,-80.32555389,26.15851975,Florida
+25,Carolina Hurricanes,Hurricanes,Carolina,-78.72197723,35.80363083,Carolina
+26,San Jose Sharks,Sharks,San Jose,-121.9012527,37.33283615,San Jose
+27,Phoenix Coyotes,Coyotes,Phoenix,-112.261261,33.53203964,Arizona
+28,Los Angeles Kings,Kings,Los Angeles,-118.2671585,34.04314804,Los Angeles
+29,Dallas Stars,Stars,Dallas,-96.81031799,32.79045105,Dallas
+30,Anaheim Ducks,Ducks,Anaheim,-117.8763275,33.80780411,Anaheim
+31,Las Vegas Knights,GoldenKnights,Las Vegas,-115.1783,36.1028,Vegas
